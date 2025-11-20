@@ -1,0 +1,15 @@
+src/
+src/main.m
+src/generate_nodes.m
+src/generate_elements.m
+src/plot_mesh.m
+
+tests/
+tests/test_nodes.m
+tests/test_plot.m
+
+docs/
+docs/report_notes.txt
+
+results/
+results/README.md
